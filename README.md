@@ -1,5 +1,5 @@
 # CM2F-Net
-This is the codebase for our paper "Cross-Modal Multi-Level Feature Fusion Method for Continuous Sign Language Recognition". 
+This is the codebase for our paper "Cross-Modal Multi-Level Feature Fusion Method for Continuous Sign Language Recognition" which is currently under review at *The Visual Computer*. 
 All datasets analysed during this study are available in links. 
 
 ## Prerequisites
